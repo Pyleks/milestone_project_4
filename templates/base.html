@@ -4,15 +4,30 @@
 <html lang="en">
 <head>
 
+    {% block meta %}
     <meta http-equiv="X-UA-Compatible" content="ie=ed">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    {% endblock %}
 
+    {% block extra_meta %}
+    {% endblock %}
 
+    {% block corecss %}
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
           integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    {% endblock %}
 
-    <title>Threads</title>
+    {% block extra_css %}
+    {% endblock %}
+
+    {% block corejs %}
+    {% endblock %}
+
+    {% block extra_js %}
+    {% endblock %}
+
+    <title>Threads {% block extra_title %} {% endblock %}</title>
 </head>
 <body>
 
