@@ -1,0 +1,100 @@
+/************ CSS Reset ************/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+}
+
+
+/*Global Styling rules*/
+html {
+    height: 100%;
+}
+
+body {
+    background: url("/media/homepage5.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: calc(100vh - 164px);
+    color: #555555;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*background colors*/
+.bg-black {
+    background-color: #000000 !important;
+}
+
+.no-pad {
+    padding: 0 !important;
+}
+
+/*text colors */
+.txt-white {
+    color: #ffffff !important;
+}
+.txt-yellow {
+    color: #ffff00;
+}
+
+.txt-black {
+    color: #000000 !important;
+}
+/*Navigation Bar + callout*/
+.navbar-brand {
+    font-size: 2em;
+}
+
+li a {
+    font-size: 1.2em;
+}
+
+.callout-style {
+    font-size: 1em;
+    margin: 0.5em 0 0.5em;
+
+}
+
+/*Front page*/
+.callout-font {
+    font-weight: 400;
+}
+.callout-wrapper {
+    /*border: solid 5px;*/
+    /*border-radius: 10px;*/
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    color: #ffffff;
+    margin: 0 0 2em 0;
+    background-color: rgba(00, 00, 00, .5);
+}
+
+.shop-now-button {
+    font-size: 1.3em;
+}
+
+.overlay {
+    position: fixed; /* Sit on top of the page content */
+    display: block; /* Hidden by default */
+    width: 100%; /* Full width (cover the whole page) */
+    height: 100%; /* Full height (cover the whole page) */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5); /* Black background with opacity */
+    z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+}
