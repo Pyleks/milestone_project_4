@@ -1,0 +1,302 @@
+[
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+      "sku": "pphm001",
+      "name": "Gray Fila Hoodie",
+      "description": "Get a fresh look for the streets with this men's Lark Overhead Hoodie from Fila exclusive to Threads retro style to your 'fits, this hoodie is made from a soft cotton for laid back, comfort and premium wear.",
+      "gender": "male",
+      "brand": "Fila",
+      "price": 55.00,
+      "category": 1,
+      "rating": 4.1,
+      "image": "HoodieM-Fila001.jpg"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+      "sku": "pphm002",
+      "name": "Red Fila Hoodie",
+      "description": "A serious must have for those casual days. This red Fila hoodie made from the greatest fabric will keep you warm and comfy all year.",
+      "gender": "male",
+      "brand": "Fila",
+      "price": 45.00,
+      "category": 1,
+      "rating": 3.9,
+      "image": "HoodieM-Fila002.jpg"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "products.product",
+    "fields": {
+      "sku": "pphm003",
+      "name": "Red Fila Hoodie",
+      "description": "A sporty look with timeless style. This adidas hoodie for men comes with a relaxed and sporty fit.",
+      "gender": "male",
+      "brand": "Adidas",
+      "price": 54.00,
+      "category": 1,
+      "rating": 4.1,
+      "image": "HoodieM-Addidas003.jpg"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "products.product",
+    "fields": {
+      "sku": "pphm004",
+      "name": "Black Adidas Hoodie",
+      "description": "This hoodie celebrates its iconic style with a Trefoil logo front. A kangaroo pouch pocket keeps your everyday belongings close. The pullover sweatshirt is made of cotton French terry for a cosy feel.",
+      "gender": "male",
+      "brand": "Adidas",
+      "price": 31.00,
+      "category": 1,
+      "rating": 3.9,
+      "image": "HoodieM-Addidas004.jpg"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "products.product",
+    "fields": {
+      "sku": "pphm005",
+      "name": "Black Adidas Hoodie",
+      "description": "A solid workout starts long before you step into the gym. Set the tone early in this sweatshirt.",
+      "gender": "male",
+      "brand": "Adidas",
+      "price": 59.00,
+      "category": 1,
+      "rating": 4.1,
+      "image": "HoodieM-Addidas005.jpg"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "products.product",
+    "fields": {
+      "sku": "pphm006",
+      "name": "Grey Champions Hoodie",
+      "description": "Champion classic logo sweater. With its reverse weave technology you can be assured this sweater will stand the test of time whilst it timeless silhouette means this will always be on trend.",
+      "gender": "male",
+      "brand": "Champions",
+      "price": 39.99,
+      "category": 1,
+      "rating": 4.4,
+      "image": "HoodieM-Champ006.jpg"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "products.product",
+    "fields": {
+      "sku": "pphm007",
+      "name": "Black Carhartt Hoodie",
+      "description": "From running repair calls to running errands, this men′s midweight hoodie keeps you comfortable on the move.",
+      "gender": "male",
+      "brand": "Carhartt",
+      "price": 45.99,
+      "category": 1,
+      "rating": 3.7,
+      "image": "HoodieM-Carhartt007.jpg"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "products.product",
+    "fields": {
+      "sku": "pphm008",
+      "name": "Yellow G-Star Hoodie",
+      "description": "The Premium Basic hoody features a split kangaroo pocket and a hood with a drawstring.",
+      "gender": "male",
+      "brand": "G-Star",
+      "price": 49.99,
+      "category": 1,
+      "rating": 4.7,
+      "image": "HoodieM-G-star008.jpg"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "products.product",
+    "fields": {
+      "sku": "pphm009",
+      "name": "White GAP Hoodie",
+      "description": "Soft, plush, cozy fleece long raglan sleeves, banded rib-knit cuffs drawcord ties at hooded neckline front kanga pocket.",
+      "gender": "male",
+      "brand": "GAP",
+      "price": 36.99,
+      "category": 1,
+      "rating": 2.9,
+      "image": "HoodieM-GAP009.jpg"
+    }
+  },
+  {
+    "pk": 10,
+    "model": "products.product",
+    "fields": {
+      "sku": "pphm010",
+      "name": "White GAP Hoodie",
+      "description": "Make a statement and own it - Start with this hoodie and put your own touch on our iconic logo.",
+      "gender": "male",
+      "brand": "Levis",
+      "price": 38.99,
+      "category": 1,
+      "rating": 2.2,
+      "image": "HoodieM-Levis010.jpg"
+    }
+  },
+  {
+    "pk": 11,
+    "model": "products.product",
+    "fields": {
+      "sku": "pphf011",
+      "name": "Black Fila Hoodie",
+      "description": "The Fila Pure Basics sweater is made from cotton that gives you all the comfort you need for your everyday life.",
+      "gender": "female",
+      "brand": "Fila",
+      "price": 36.99,
+      "category": 1,
+      "rating": 2.9,
+      "image": "HoodieF-Fila001.jpg"
+    }
+  },
+  {
+    "pk": 12,
+    "model": "products.product",
+    "fields": {
+      "sku": "pphf012",
+      "name": "Gray Fila Hoodie",
+      "description": "Composition - Cotton - A very soft and pleasant material whose properties include tensile strength and elongation at break. Unlike other materials, it does not get damaged easily when washed often.",
+      "gender": "female",
+      "brand": "Fila",
+      "price": 34.99,
+      "category": 1,
+      "rating": 3.9,
+      "image": "HoodieF-Fila002.jpg"
+    }
+  },
+  {
+    "pk": 13,
+    "model": "products.product",
+    "fields": {
+      "sku": "pphf013",
+      "name": "Blue Adidas Hoodie",
+      "description": "You've never been afraid to make a statement. Neither has the Trefoil. Stand out in the adidas copped top. Just throw it on and head out the door.",
+      "gender": "female",
+      "brand": "Adidas",
+      "price": 25.99,
+      "category": 1,
+      "rating": 4.7,
+      "image": "HoodieF-Addidas003.jpg"
+    }
+  },
+  {
+    "pk": 14,
+    "model": "products.product",
+    "fields": {
+      "sku": "pphf014",
+      "name": "Green Adidas Hoodie",
+      "description": "A heavyweight hooded sweatshirt from adidas Skateboarding that's great for daily wear.",
+      "gender": "female",
+      "brand": "Adidas",
+      "price": 35.99,
+      "category": 1,
+      "rating": 4.4,
+      "image": "HoodieF-Addidas004.jpg"
+    }
+  },
+  {
+    "pk": 15,
+    "model": "products.product",
+    "fields": {
+      "sku": "pphf015",
+      "name": "Blue Adidas Hoodie",
+      "description": "The Womens Logo Hoodie is your go-to oversized hoodie for comfort and style. The French Terry fabric is cut in a long, loose fit with chunky cuffs and hem and will give you all the relaxed comfort you need, whether you’re just lounging around or want to feel snug after a work out.",
+      "gender": "female",
+      "brand": "Adidas",
+      "price": 45.99,
+      "category": 1,
+      "rating": 4.1,
+      "image": "HoodieF-Addidas005.jpg"
+    }
+  },
+  {
+    "pk": 16,
+    "model": "products.product",
+    "fields": {
+      "sku": "pphf016",
+      "name": "White Ellesse Hoodie",
+      "description": "Steal his style and keep comf' in this women's Core Boyfriend Logo Hoodie from Ellesse. In a white cooler way, this loose-fit hoodie has an overhead design with a central kangaroo pocket and an adjustable hood for cosy coverage.",
+      "gender": "female",
+      "brand": "ellesse",
+      "price": 38.00,
+      "category": 1,
+      "rating": 3.1,
+      "image": "HoodieF-Elise006.jpg"
+    }
+  },
+  {
+    "pk": 17,
+    "model": "products.product",
+    "fields": {
+      "sku": "pphf017",
+      "name": "Gray Levis Hoodie",
+      "description": "Everyone needs a good hoody to rely on, this classic from Levi's® is designed in a comfortable and flattering cut with the iconic batwing logo, kangaroo pocket and drawcord hood.",
+      "gender": "female",
+      "brand": "Levis",
+      "price": 31.99,
+      "category": 1,
+      "rating": 3.8,
+      "image": "HoodieF-Levis007.jpg"
+    }
+  },
+  {
+    "pk": 18,
+    "model": "products.product",
+    "fields": {
+      "sku": "pphf018",
+      "name": "Gray Levis Hoodie",
+      "description": "Pullover, striped and colour block prints, drawstring hood, ribbed trims.",
+      "gender": "female",
+      "brand": "Polo",
+      "price": 25.99,
+      "category": 1,
+      "rating": 3.9,
+      "image": "HoodieF-Polo008.jpg"
+    }
+  },
+  {
+    "pk": 19,
+    "model": "products.product",
+    "fields": {
+      "sku": "pphf019",
+      "name": "Orange Carhartt Hoodie",
+      "description": "Carhartt durability and classic hoodie comfort means you can swing a hammer or haul supplies with equal ease. A orange cotton blend offers everyday versatility.",
+      "gender": "female",
+      "brand": "Carhartt",
+      "price": 59.99,
+      "category": 1,
+      "rating": 4.9,
+      "image": "HoodieF-Carhartt009.jpg"
+    }
+  },
+  {
+    "pk": 20,
+    "model": "products.product",
+    "fields": {
+      "sku": "pphf020",
+      "name": "Gray SuperDry Hoodie",
+      "description": "A fleece-lined hoodie featuring drawstring adjustable hood, ribbed cuffs and hem, and Superdry branded paneling down the arms. Finished with a textured Superdry logo print across the front",
+      "gender": "female",
+      "brand": "SuperDRy",
+      "price": 91.99,
+      "category": 1,
+      "rating": 4.9,
+      "image": "HoodieF-SuperD010.jpg"
+    }
+  }
+]
