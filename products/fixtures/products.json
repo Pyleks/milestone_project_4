@@ -298,5 +298,305 @@
       "rating": 4.9,
       "image": "HoodieF-SuperD010.jpg"
     }
+  },
+  {
+    "pk": 21,
+    "model": "products.product",
+    "fields": {
+      "sku": "ppsm021",
+      "name": "Dark Blue Kappa Sweatshirt",
+      "description": "The Clinic sweatshirt combines pop colours and a basic fit. Associated with jeans and sneakers, it brings a streetwear and casual look.",
+      "gender": "male",
+      "brand": "Kappa",
+      "price": 39.99,
+      "category": 2,
+      "rating": 2.9,
+      "image": "SweatshirtM-Kappa001.jpg"
+    }
+  },
+  {
+    "pk": 22,
+    "model": "products.product",
+    "fields": {
+      "sku": "ppsm022",
+      "name": "White Kappa Sweatshirt",
+      "description": "Worn in everyday life, this sweatshirt will fit your style. Offer yourself the same 1/4 zip training as the ASM players.",
+      "gender": "male",
+      "brand": "Kappa",
+      "price": 35.99,
+      "category": 2,
+      "rating": 3.9,
+      "image": "SweatshirtM-Kappa002.jpg"
+    }
+  },
+  {
+    "pk": 23,
+    "model": "products.product",
+    "fields": {
+      "sku": "ppsm023",
+      "name": "Red Kappa Sweatshirt",
+      "description": "Worn in everyday life, this sweatshirt will fit your style. Offer yourself the same 1/4 zip training as the ASM players.",
+      "gender": "male",
+      "brand": "Kappa",
+      "price": 29.99,
+      "category": 2,
+      "rating": 2.9,
+      "image": "SweatshirtM-Kappa003.jpg"
+    }
+  },
+  {
+    "pk": 24,
+    "model": "products.product",
+    "fields": {
+      "sku": "ppsm024",
+      "name": "Blue and White Abercrombie Sweatshirt",
+      "description": "Everything you need and some more from Abercrombie",
+      "gender": "male",
+      "brand": "Abercrombie",
+      "price": 44.99,
+      "category": 2,
+      "rating": 4.9,
+      "image": "SweatshirtM-ABE004.jpg"
+    }
+  },
+  {
+    "pk": 25,
+    "model": "products.product",
+    "fields": {
+      "sku": "ppsm025",
+      "name": "Black Trefoil Sweatshirt",
+      "description": "Adidas Originals Crew Neck Logo Sweatshirt In Black, A ribbed crew neck with a ribbed waistband and ribbed cuffs on the long sleeves. The signature adidas trefoil logo is embroidered the chest in white. Soft fleece interior. ",
+      "gender": "male",
+      "brand": "Adidas",
+      "price": 39.99,
+      "category": 2,
+      "rating": 3.3,
+      "image": "SweatshirtM-Addidas005.jpg"
+    }
+  },
+  {
+    "pk": 26,
+    "model": "products.product",
+    "fields": {
+      "sku": "ppsm026",
+      "name": "Orange Trefoil Sweatshirt",
+      "description": "Adidas Originals rew Sweatshirt In Core Orange, A ribbed crew neck with a ribbed waistband and ribbed cuffs on the long raglan sleeves.The signature adidas trefoil logo is embroidered in the middle of the chest in white. Soft fleecy interior.",
+      "gender": "male",
+      "brand": "Adidas",
+      "price": 19.99,
+      "category": 2,
+      "rating": 2.3,
+      "image": "SweatshirtM-Addidas006.jpg"
+    }
+  },
+  {
+    "pk": 27,
+    "model": "products.product",
+    "fields": {
+      "sku": "ppsm027",
+      "name": "Alpha Industries Sweatshirt",
+      "description": "It’s dangerous to ride a bike in space, so you better get your safety game on point with this reflective print sweater.",
+      "gender": "male",
+      "brand": "Alpha Industries",
+      "price": 98.99,
+      "category": 2,
+      "rating": 4.3,
+      "image": "SweatshirtM-Alpha007.jpg"
+    }
+  },
+  {
+    "pk": 28,
+    "model": "products.product",
+    "fields": {
+      "sku": "ppsm028",
+      "name": "Alpha Industries Sweatshirt",
+      "description": "This basic sweatshirt is like a good pal you can hang around with, day in, day out.",
+      "gender": "male",
+      "brand": "Alpha Industries",
+      "price": 79.99,
+      "category": 2,
+      "rating": 4.1,
+      "image": "SweatshirtM-Alpha008.jpg"
+    }
+  },
+  {
+    "pk": 29,
+    "model": "products.product",
+    "fields": {
+      "sku": "ppsm029",
+      "name": "Champion Sweatshirt",
+      "description": "A must-have for kicking back in style, this cotton terry sweatshirt makes a statement with the script logo emblazoned across the chest In satin and twill.",
+      "gender": "male",
+      "brand": "Champion",
+      "price": 59.99,
+      "category": 2,
+      "rating": 4.3,
+      "image": "SweatshirtM-Champion009.jpg"
+    }
+  },
+  {
+    "pk": 30,
+    "model": "products.product",
+    "fields": {
+      "sku": "ppsm030",
+      "name": "Champion Sweatshirt",
+      "description": "Champion Linear Application Sweatshirt in Yellow. With a plethora of American sporting heritage Champion have become a firm casual favourite with their simple styles and this sweat is no different. Linear branding to Chest.",
+      "gender": "male",
+      "brand": "Champion",
+      "price": 59.99,
+      "category": 2,
+      "rating": 4.8,
+      "image": "SweatshirtM-Champion010.jpg"
+    }
+  },
+  {
+    "pk": 31,
+    "model": "products.product",
+    "fields": {
+      "sku": "ppsw031",
+      "name": "Grey Fila Sweatshirt",
+      "description": "If you think you need this sweatshirt, you probably do. The high content of cotton, the crew neck, paired with Fila logo make this sweater a perfect everyday buddy!.",
+      "gender": "female",
+      "brand": "Fila",
+      "price": 49.99,
+      "category": 2,
+      "rating": 3.3,
+      "image": "SweatshirtF-Fila001.jpg"
+    }
+  },
+  {
+    "pk": 32,
+    "model": "products.product",
+    "fields": {
+      "sku": "ppsw032",
+      "name": "Grey Fila Sweatshirt",
+      "description": "The Fila Pure Basics Crew Sweat unisex Basics sweater is made from cotton that gives you all the comfort you need for your everyday life.",
+      "gender": "female",
+      "brand": "Fila",
+      "price": 49.99,
+      "category": 2,
+      "rating": 3.3,
+      "image": "SweatshirtF-Fila002.jpg"
+    }
+  },
+  {
+    "pk": 33,
+    "model": "products.product",
+    "fields": {
+      "sku": "ppsw033",
+      "name": "Green Adidas Sweatshirt",
+      "description": "Adidas Originals Essential Crew Sweatshirt In Night Cargo Green, A ribbed crew neck with a ribbed waistband and ribbed cuffs on the long sleeves.",
+      "gender": "female",
+      "brand": "Adidas",
+      "price": 43.99,
+      "category": 2,
+      "rating": 3.1,
+      "image": "SweatshirtF-Addidas003.jpg"
+    }
+  },
+  {
+    "pk": 34,
+    "model": "products.product",
+    "fields": {
+      "sku": "ppsw034",
+      "name": "White Boss Sweatshirt",
+      "description": " A super-soft sweatshirt by BOSS womenswear, cut with a loose fit for laid-back comfort. Created in cotton-blend terry with a brushed back and a peached front, this cosy top is detailed with a plastisol-print logo at the centre chest and technical tape at the inside neck. Choose this sweatshirt to lend signature style to sporty looks.",
+      "gender": "female",
+      "brand": "Boss",
+      "price": 49.99,
+      "category": 2,
+      "rating": 4.1,
+      "image": "SweatshirtF-Boss004.jpg"
+    }
+  },
+  {
+    "pk": 35,
+    "model": "products.product",
+    "fields": {
+      "sku": "ppsw035",
+      "name": "Purple Carhartt Sweatshirt",
+      "description": "This women′s crewneck sweatshirt gives you a rugged layer to pull on when the temperature drops. It′s made of a heavyweight cotton blend to keep you warm through the work day or weekend. It′s finished with a Carhartt logo across the chest.",
+      "gender": "female",
+      "brand": "Carhartt",
+      "price": 29.99,
+      "category": 2,
+      "rating": 4.3,
+      "image": "SweatshirtF-Carhartt005.jpg"
+    }
+  },
+  {
+    "pk": 36,
+    "model": "products.product",
+    "fields": {
+      "sku": "ppsw036",
+      "name": "Black Champion Sweatshirt",
+      "description": "Champion Women's Sweatshirt in black. With a plethora of American sporting heritage Champion have become a firm casual favourite with their simple styles and this sweat is no different; big Linear branding to Chest.",
+      "gender": "female",
+      "brand": "Champion",
+      "price": 39.99,
+      "category": 2,
+      "rating": 3.9,
+      "image": "SweatshirtF-Champion006.jpg"
+    }
+  },
+  {
+    "pk": 37,
+    "model": "products.product",
+    "fields": {
+      "sku": "ppsw037",
+      "name": "Pink Calvin Klein Sweatshirt",
+      "description": "This sweatshirt is crafted with 100% sustainable materials.",
+      "gender": "female",
+      "brand": "Calvin Klein",
+      "price": 99.99,
+      "category": 2,
+      "rating": 3.5,
+      "image": "SweatshirtF-Calvin007.jpg"
+    }
+  },
+  {
+    "pk": 38,
+    "model": "products.product",
+    "fields": {
+      "sku": "ppsw038",
+      "name": "Brown Diesel Sweatshirt",
+      "description": "Diesel Sweater with high ribbed neck trim, ribbed cuff and hem and branded woven sleeve tape.",
+      "gender": "female",
+      "brand": "Diesel",
+      "price": 45.99,
+      "category": 2,
+      "rating": 3.7,
+      "image": "SweatshirtF-Disel008.jpg"
+    }
+  },
+  {
+    "pk": 39,
+    "model": "products.product",
+    "fields": {
+      "sku": "ppsw039",
+      "name": "Green Calvin Klein Sweatshirt",
+      "description": "Contemporary. Confident. Iconic. CALVIN KLEIN WOMENSWEAR offers an elevated wardrobe selection for day and evening strongly driven by a sportswear character.",
+      "gender": "female",
+      "brand": "Calvin Klein",
+      "price": 45.99,
+      "category": 2,
+      "rating": 4.9,
+      "image": "SweatshirtF-Calvin009.jpg"
+    }
+  },
+  {
+    "pk": 40,
+    "model": "products.product",
+    "fields": {
+      "sku": "ppsw040",
+      "name": "Red Fila Sweatshirt",
+      "description": "The Leah Crew Sweater by Fila has a central logo print and a striped look.",
+      "gender": "female",
+      "brand": "Fila",
+      "price": 35.99,
+      "category": 2,
+      "rating": 4.8,
+      "image": "SweatshirtF-Fila010.jpg"
+    }
   }
 ]
