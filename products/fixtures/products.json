@@ -34,7 +34,7 @@
     "model": "products.product",
     "fields": {
       "sku": "pphm003",
-      "name": "Red Fila Hoodie",
+      "name": "Green Adidas Hoodie",
       "description": "A sporty look with timeless style. This adidas hoodie for men comes with a relaxed and sporty fit.",
       "gender": "male",
       "brand": "Adidas",
@@ -139,7 +139,7 @@
     "model": "products.product",
     "fields": {
       "sku": "pphm010",
-      "name": "White GAP Hoodie",
+      "name": "Gray Levis Hoodie",
       "description": "Make a statement and own it - Start with this hoodie and put your own touch on our iconic logo.",
       "gender": "male",
       "brand": "Levis",
@@ -214,7 +214,7 @@
     "model": "products.product",
     "fields": {
       "sku": "pphf015",
-      "name": "Blue Adidas Hoodie",
+      "name": "Light Green Adidas Hoodie",
       "description": "The Womens Logo Hoodie is your go-to oversized hoodie for comfort and style. The French Terry fabric is cut in a long, loose fit with chunky cuffs and hem and will give you all the relaxed comfort you need, whether you’re just lounging around or want to feel snug after a work out.",
       "gender": "female",
       "brand": "Adidas",
@@ -259,7 +259,7 @@
     "model": "products.product",
     "fields": {
       "sku": "pphf018",
-      "name": "Gray Levis Hoodie",
+      "name": "Colorful Polo Hoodie",
       "description": "Pullover, striped and colour block prints, drawstring hood, ribbed trims.",
       "gender": "female",
       "brand": "Polo",
@@ -394,7 +394,7 @@
     "model": "products.product",
     "fields": {
       "sku": "ppsm027",
-      "name": "Alpha Industries Sweatshirt",
+      "name": "Black Alpha Industries Sweatshirt",
       "description": "It’s dangerous to ride a bike in space, so you better get your safety game on point with this reflective print sweater.",
       "gender": "male",
       "brand": "Alpha Industries",
@@ -409,7 +409,7 @@
     "model": "products.product",
     "fields": {
       "sku": "ppsm028",
-      "name": "Alpha Industries Sweatshirt",
+      "name": "White Alpha Industries Sweatshirt",
       "description": "This basic sweatshirt is like a good pal you can hang around with, day in, day out.",
       "gender": "male",
       "brand": "Alpha Industries",
@@ -424,7 +424,7 @@
     "model": "products.product",
     "fields": {
       "sku": "ppsm029",
-      "name": "Champion Sweatshirt",
+      "name": "White Champion Sweatshirt",
       "description": "A must-have for kicking back in style, this cotton terry sweatshirt makes a statement with the script logo emblazoned across the chest In satin and twill.",
       "gender": "male",
       "brand": "Champion",
@@ -439,7 +439,7 @@
     "model": "products.product",
     "fields": {
       "sku": "ppsm030",
-      "name": "Champion Sweatshirt",
+      "name": "Yellow Champion Sweatshirt",
       "description": "Champion Linear Application Sweatshirt in Yellow. With a plethora of American sporting heritage Champion have become a firm casual favourite with their simple styles and this sweat is no different. Linear branding to Chest.",
       "gender": "male",
       "brand": "Champion",
