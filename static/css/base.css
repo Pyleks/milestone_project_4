@@ -34,6 +34,10 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+.top-margin {
+    padding-top: 9em;
+}
+
 /*background colors*/
 .bg-black {
     background-color: #000000 !important;
@@ -101,9 +105,7 @@ li a {
 }
 
 /*Product Page*/
-.top-marg {
-    padding-top: 9em;
-}
+/*TODO Move this into global style*/
 
 .card-image-style {
     padding: 0 0.1em 0 0.1em;
@@ -112,4 +114,9 @@ li a {
 .card-image-style:hover {
     /*background: #000000;*/
     border: 1px solid #000000;
+}
+
+/*Product Details Page*/
+.product-name-s {
+    font-size: 1.3em;
 }
