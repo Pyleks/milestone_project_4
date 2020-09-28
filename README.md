@@ -57,3 +57,9 @@ e-commerce site, making the text easy to read, as well being one of the most com
 ## Database
 The databases added this time is the built in sqlite3 database that comes with Django during the development cycle
 And once moved to Heroku, this changed to Heroku Postgres for the production environment. 
+
+## Features
+The current features of this website (Threads) is the simple process of visiting, browsing and buying the listed 
+clothing pieces (Shirt and Hoodies).
+
+
