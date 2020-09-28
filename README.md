@@ -89,5 +89,10 @@ So this is the place where you can add pretty much any keyword of what you are l
 related to what you searched for, granted it is in our store, this field work with a wide range of keywords.
 
 
+### Features I wished I knew how to implement
+There is mainly 1 feature I wish was properly implemented, and that is the Profile page, to the same extent
+As my previous project. 
+- Profile Page
+
 
 
