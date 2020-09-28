@@ -104,4 +104,9 @@ As my previous project.
 | [JavaScript](https://www.w3schools.com/js/)  | Mainly used for Stripe  |
 | [Python](https://www.python.org/)  | Runs the entire backend server code, (Django) |
 
+### Libraries
 
+|Libraries  |Usage  |
+| :-------------| :-------------|
+| [Bootstrap](https://getbootstrap.com/)  | Styling Framework to get a modern feel to the website.  |
+| [Font Awesome](https://fontawesome.com/)  | Used for all website icons.  |
