@@ -120,3 +120,25 @@ li a {
 .product-name-s {
     font-size: 1.3em;
 }
+
+/*Media Queries*/
+@media (max-width: 1024px) {
+
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
+
+
+@media (max-width: 575px) {
+
+}
+
+@media (max-width: 360px) {
+
+}
