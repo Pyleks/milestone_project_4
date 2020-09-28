@@ -20,3 +20,16 @@ finding your next favorite clothing piece.
 This have been designed with the idea of giving the visitor a quick access to our inventory of clothing pieces
 for both men and women, simple straight forward design allowing for quick and easy shopping experience.
 
+#### User Stories
+> Quick access to your new favorite clothing store.
+
+> Looking for a new shirt with a good brand behind it.
+
+> Want to find mixed brand store for a good variation of clothes.
+
+> Want to show my friends where I bough my new hoodie.
+
+> Looking for a safe page to buy my next clothing article.
+
+> Want to buy a shirt or hoodie from a store that provide Free delivery on high orders.
+
