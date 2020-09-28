@@ -34,3 +34,10 @@ for both men and women, simple straight forward design allowing for quick and ea
 > Want to buy a shirt or hoodie from a store that provide Free delivery on high orders.
 
 #### WireFrames
+Needs to be accomplished.
+
+
+## Design Decisions
+The design decisions here is following the Django Code Institute tutorial quite closely to get as much as possible
+working properly in the final product, but everything is simplified enough to make the user experience very
+straight forward, allowing for quick navigation.
