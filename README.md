@@ -70,4 +70,8 @@ amount in top right corner.
 This site is listening pictures of all the products available if you access it through the "shop now" button,
 However if you arrive by searching for color, gender, type or brand, it will give you a filtered result.
 
+#### Product Details Page
+In here you can see all the products from Name, Price, Description, Rating, Quantity, Picture or the 2 buttons
+"Keep Shopping" and "Add to Bag".
+
 
