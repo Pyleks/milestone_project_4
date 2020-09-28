@@ -62,4 +62,12 @@ And once moved to Heroku, this changed to Heroku Postgres for the production env
 The current features of this website (Threads) is the simple process of visiting, browsing and buying the listed 
 clothing pieces (Shirt and Hoodies).
 
+#### Landing Page
+The landing page of the site mainly provides them with a search field, and a shop now button + their total shopping
+amount in top right corner.
+
+#### Product Page
+This site is listening pictures of all the products available if you access it through the "shop now" button,
+However if you arrive by searching for color, gender, type or brand, it will give you a filtered result.
+
 
