@@ -94,5 +94,14 @@ There is mainly 1 feature I wish was properly implemented, and that is the Profi
 As my previous project. 
 - Profile Page
 
+## Technologies
+
+### Languages
+| Languages  | Usage |
+| :------------- | :------------- |
+| [HTML](https://www.w3schools.com/html/)  | Creating the entire foundation for the website.  |
+| [CSS](https://www.w3schools.com/css/)  | Applying styling across all pages.  |
+| [JavaScript](https://www.w3schools.com/js/)  | Mainly used for Stripe  |
+| [Python](https://www.python.org/)  | Runs the entire backend server code, (Django) |
 
 
