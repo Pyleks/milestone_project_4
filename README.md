@@ -13,7 +13,10 @@ finding your next favorite clothing piece.
 7. [Testing Summary](#Testing-Summary)
 8. [Deployment](#Deployment)
 9. [Credits](#Credits)
+10. [Disclaimer](#Disclaimer)
 
-11. [Disclaimer](#Disclaimer)
 
 ## User Experience
+This have been designed with the idea of giving the visitor a quick access to our inventory of clothing pieces
+for both men and women, simple straight forward design allowing for quick and easy shopping experience.
+
