@@ -44,6 +44,11 @@
                                     <td class="py-3">
                                         <p class="my-0 txt-orange"><strong>{{ item.product.name }}</strong></p>
                                         <p class="my-0"><strong>Size: </strong>{% if item.product.has_sizes %}{{ item.size|upper }}{% else %}Magic Fit{% endif %}</p>
+                                        {% if item.product.rating %}
+                                            <small class="text-muted"><i class="fas fa-star"></i>{{ item.product.rating }} / 5</small>
+                                        {% else %}
+                                            <small class="text-muted">No Rating</small>
+                                        {% endif %}
                                         <p class="my-0 small text-muted">SKU: {{ item.product.sku|upper }}</p>
                                     </td>
                                     <td class="py-3">
