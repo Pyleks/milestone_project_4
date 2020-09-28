@@ -110,3 +110,15 @@ As my previous project.
 | :-------------| :-------------|
 | [Bootstrap](https://getbootstrap.com/)  | Styling Framework to get a modern feel to the website.  |
 | [Font Awesome](https://fontawesome.com/)  | Used for all website icons.  |
+
+
+### Python Libraries and Framework
+This list is longer then previous, so only key Libraries are added below.
+
+|Libraries  |Usage  |
+| :-------------| :-------------|
+| [Django](https://www.djangoproject.com/)  | Required to run all route operations in the code.  |
+| [STRIPE](https://stripe.com/en-ie)  | Handling all Payments  |
+| [Crispy Forms](https://django-crispy-forms.readthedocs.io/en/latest/)  | Handling form logic  |
+| [Dj Database](https://pypi.org/project/dj-database-url/0.2.2/)  | Provides support between Django and Heroko Postgres database |
+| [Certifi](https://stripe.com/en-ie)  | For safe form handling, and verifying the SSL certificate  |
