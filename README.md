@@ -41,3 +41,11 @@ Needs to be accomplished.
 The design decisions here is following the Django Code Institute tutorial quite closely to get as much as possible
 working properly in the final product, but everything is simplified enough to make the user experience very
 straight forward, allowing for quick navigation.
+
+#### Color Scheme
+
+Need to add color scheme
+
+The current set of colors are all very bland but contrasting to make sure all the buttons and navigation is easy to
+identify for the visitor, and to make sure no colors "drown" out as they navigate through everything.
+
