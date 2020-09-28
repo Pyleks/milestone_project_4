@@ -74,8 +74,20 @@ However if you arrive by searching for color, gender, type or brand, it will giv
 In here you can see all the products from Name, Price, Description, Rating, Quantity, Picture or the 2 buttons
 "Keep Shopping" and "Add to Bag".
 
-#### Shopping Bag
+#### Shopping Bag Page
 In the shopping bag you can see all the products you added, as well the number of each article added to the bag,
 and you can see the price for each item as well the combined cost of everything you added to the bag.
 If needed this page can also be used for removing items from the bag entirely or simply move onwards to Secure Checkout/Keep Shopping.
+
+#### Checkout Page
+The final step, where you enter all your information, including personal details as well your credit card into 
+STRIPE payment terminal for a safe and secure checkout process, you can also see a full order summery of everything
+you are about to purchase.
+
+#### Search Explained
+So this is the place where you can add pretty much any keyword of what you are looking for to bring up an item
+related to what you searched for, granted it is in our store, this field work with a wide range of keywords.
+
+
+
 
