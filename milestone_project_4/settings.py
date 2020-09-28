@@ -52,7 +52,10 @@ INSTALLED_APPS = [
     'home',
     'products',
     'bag',
-    'checkout'
+    'checkout',
+
+    # Forms
+    'crispy_forms',
 ]
 
 MIDDLEWARE = [
@@ -66,6 +69,8 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'milestone_project_4.urls'
+
+CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 TEMPLATES = [
     {
@@ -84,6 +89,10 @@ TEMPLATES = [
                 'django.contrib.messages.context_processors.messages',
                 'bag.contexts.bag_contents',
             ],
+            'builtins': [
+                'crispy_forms.templatetags.crispy_forms_tags',
+                'crispy_forms.templatetags.crispy_forms_field',
+            ]
         },
     },
 ]
@@ -166,3 +175,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 FREE_DELIVERY_THRESHOLD = 50
 STANDARD_DELIVERY_PERCENTAGE = 10
+STRIPE_CURRENCY = 'usd'
+STRIPE_PUBLIC_KEY = os.getenv('STRIPE_PUBLIC_KEY', 'pk_test_51Gyez9DsrD0PTTMnk2E1wSWmcTUFwtticNhUamlui4NmPBpADZEtw27bjuXax695SrBbsKrXVD40aQYR1WPvEiEq000Y5057fP')
+STRIPE_SECRET_KEY = os.getenv('STRIPE_SECRET_KEY', 'sk_test_51Gyez9DsrD0PTTMn8ARnqJvnq1YashEKNhNonQZb2AUGrv7w8grxP3cmmS7aYAopnGkzuBX2YYTEIbOOct6qImKz00REWaKgEd')
+STRIPE_WH_SECRET = os.getenv('STRIPE_WH_SECRET', '')
