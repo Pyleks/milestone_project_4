@@ -49,3 +49,9 @@ Need to add color scheme
 The current set of colors are all very bland but contrasting to make sure all the buttons and navigation is easy to
 identify for the visitor, and to make sure no colors "drown" out as they navigate through everything.
 
+#### Typography
+I choose to use __Roboto__ for all text, which is the same as previous project, especially since this is a
+e-commerce site, making the text easy to read, as well being one of the most common e-commerce fonts used.
+[Source](https://www.builderfly.com/7-perfect-font-pairing-for-your-ecommerce-website)
+
+
