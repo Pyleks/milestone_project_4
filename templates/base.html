@@ -1,18 +1,17 @@
+{#Loads the static folder#}
 {% load static %}
 
 <!doctype html>
 <html lang="en">
 <head>
-
+{#    Each block tag imports meta, css, and js#}
     {% block meta %}
         <meta http-equiv="X-UA-Compatible" content="ie=ed">
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     {% endblock %}
 
-    {% block extra_meta %}
-    {% endblock %}
-
+{#    Imports all the required CSS files just like a normal site#}
     {% block corecss %}
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
               integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk"
@@ -21,9 +20,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap" rel="stylesheet">
     {% endblock %}
 
-    {% block extra_css %}
-    {% endblock %}
-
+{#    Imports all the js files required for bootstrap#}
     {% block corejs %}
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
                 integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
@@ -36,8 +33,6 @@
                 crossorigin="anonymous"></script>
     {% endblock %}
 
-    {% block extra_js %}
-    {% endblock %}
 
     <title>Threads {% block extra_title %} {% endblock %}</title>
 </head>
@@ -45,12 +40,14 @@
 {#Navigatio bar partically from Code Insitute Tutorial #}
 <header class="container-fluid no-pad fixed-top">
     <nav class="navbar navbar-expand-lg navbar-light bg-white">
+{#        This makes the brand name a home link#}
         <a class="navbar-brand" href="{% url 'home' %}">THREADS</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
+{#    This will call the url 'products' when clicking the search button initiating the query based on the search words#}
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <form method="GET" action="{% url 'products' %}" class="form-inline ml-auto">
                 <input class="form-control" type="search" name="q" placeholder="Search" aria-label="Search">
@@ -62,6 +59,7 @@
                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Account
                     </a>
+{#                    Provides a dropdown menu with the option to logout/signup or login#}
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         {% if request.user.is_authenticated %}
                             {% if request.user.is_superuser %}
@@ -75,7 +73,7 @@
                         {% endif %}
                     </div>
                 </li>
-
+{#                Allow for direct access to view the shopping bag contents#}
                 <li class="nav-item">
                     <a class="{% if grand_total %}text-info font-weight-bold{% else %}text-black{% endif %} nav-link"
                        href="{% url 'view_bag' %}">
@@ -92,6 +90,7 @@
             </ul>
         </div>
     </nav>
+{#TODO Check this#}
 <div class="container-fluid">
     <div class="row text-center bg-white">
         <div class="col-12">
@@ -107,6 +106,8 @@
         </div>
     </div>
 </header>
+
+{#TODO Possibly remove this#}
 {% if messages %}
     <div class="message-container"></div>
 {% endif %}
