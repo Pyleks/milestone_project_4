@@ -76,6 +76,9 @@ li a {
     margin: 0.5em 0 0.5em;
 
 }
+.navbar-brand {
+    font-weight: 600;
+}
 
 /*Index page*/
 .callout-font {
