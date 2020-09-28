@@ -122,3 +122,10 @@ This list is longer then previous, so only key Libraries are added below.
 | [Crispy Forms](https://django-crispy-forms.readthedocs.io/en/latest/)  | Handling form logic  |
 | [Dj Database](https://pypi.org/project/dj-database-url/0.2.2/)  | Provides support between Django and Heroko Postgres database |
 | [Certifi](https://stripe.com/en-ie)  | For safe form handling, and verifying the SSL certificate  |
+
+
+### Database
+
+|Libraries  |Usage  |
+| :-------------| :-------------|
+| [Heroku Postgres](https://www.heroku.com/postgres)  | Free tier version of Postgres for all database management in production  |
