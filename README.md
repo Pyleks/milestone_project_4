@@ -129,3 +129,15 @@ This list is longer then previous, so only key Libraries are added below.
 |Libraries  |Usage  |
 | :-------------| :-------------|
 | [Heroku Postgres](https://www.heroku.com/postgres)  | Free tier version of Postgres for all database management in production  |
+
+
+## Testing
+Need to be written
+
+__I have tested the following__
+- Intended use (Interactivity)  
+- Responsiveness across devices
+- W3 HTML Validator using URL and copy/paste code
+- W3 CSS Validator
+- JS Hint
+- PEP8
