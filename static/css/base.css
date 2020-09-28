@@ -131,6 +131,10 @@ tr th {
     font-weight: 600;
 }
 
+.total-text {
+    font-size: 1.2em;
+}
+
 
 /*Media Queries*/
 @media (max-width: 1024px) {
