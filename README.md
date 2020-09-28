@@ -54,4 +54,6 @@ I choose to use __Roboto__ for all text, which is the same as previous project, 
 e-commerce site, making the text easy to read, as well being one of the most common e-commerce fonts used.
 [Source](https://www.builderfly.com/7-perfect-font-pairing-for-your-ecommerce-website)
 
-
+## Database
+The databases added this time is the built in sqlite3 database that comes with Django during the development cycle
+And once moved to Heroku, this changed to Heroku Postgres for the production environment. 
