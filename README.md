@@ -74,4 +74,8 @@ However if you arrive by searching for color, gender, type or brand, it will giv
 In here you can see all the products from Name, Price, Description, Rating, Quantity, Picture or the 2 buttons
 "Keep Shopping" and "Add to Bag".
 
+#### Shopping Bag
+In the shopping bag you can see all the products you added, as well the number of each article added to the bag,
+and you can see the price for each item as well the combined cost of everything you added to the bag.
+If needed this page can also be used for removing items from the bag entirely or simply move onwards to Secure Checkout/Keep Shopping.
 
