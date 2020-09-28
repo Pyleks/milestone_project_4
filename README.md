@@ -141,3 +141,23 @@ __I have tested the following__
 - W3 CSS Validator
 - JS Hint
 - PEP8
+
+
+
+
+
+### Responsiveness
+In this test the website was tested to all default device sizes provided my chrome as well responsive
+slider across Chrome, Firefox and Edge. (This test have been preformed on all projects)
+
+  <ol>
+  <li>360 x 640 Galaxy S5</li>
+  <li>375 x 667 iPhone 6/7/8</li>
+  <li>375 x 812 iPhone X</li>
+  <li>411 x 731 Pixel 2</li>
+  <li>411 x 823 Pixel 2 XL</li>
+  <li>414 x 736 iPhone 6/7/8 Plus</li>
+  <li>768 x 1024 iPad</li>
+  <li>1024 x 1366 iPad Pro</li>
+   </ol>
+
