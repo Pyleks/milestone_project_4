@@ -139,6 +139,9 @@ li a {
     font-size: 1.2em;
 }
 
+.pad-left-0 {
+    padding-left: 0 !important;
+}
 
 /*Media Queries*/
 @media (max-width: 1024px) {
