@@ -2,3 +2,31 @@
 {% extends "base.html" %}
 {% load static %}
 {% load bag_tools %}
+
+{% block content %}
+    {#    Shopping bag header#}
+    <div class="overlay"></div>
+    <div class="container mb-2">
+        <div class="row top-margin">
+            <div class="col">
+                <h2 class="logo-font mb-4 display-4">Shopping Bag</h2>
+                <hr>
+            </div>
+        </div>
+
+        <div class="row bag-text">
+                <div class="col-4">
+                    <p>Product Info</p>
+                </div>
+                <div class="col-3">
+                    <p>Price</p>
+                </div>
+                <div class="col-2">
+                    <p>Qty</p>
+                </div>
+                <div class="co-3">
+                    <p>Subtotal</p>
+                </div>
+            </div>
+
+{% endblock %}
