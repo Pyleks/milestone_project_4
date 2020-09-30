@@ -56,7 +56,7 @@ for both men and women, simple straight forward design allowing for quick and ea
 </details>
 
 <details>
-<summary>Profile Page</summary>
+<summary>Product Details</summary>
 <br>
 
 ![Profile Page Desktop](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Profile%20Page%20Desktop.png)
@@ -66,7 +66,7 @@ for both men and women, simple straight forward design allowing for quick and ea
 </details>
 
 <details>
-<summary>Administrator Page</summary>
+<summary>Shopping Bag</summary>
 <br>
 
 ![Administrator Page Desktop](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Administrator%20%20Desktop.png)
@@ -76,9 +76,9 @@ for both men and women, simple straight forward design allowing for quick and ea
 </details>
 
 <details>
-<summary>Create Recipe</summary>
+<summary>Checkout</summary>
 <br>
-<p>I overhauled this page, adding 2 new text areas, to add recipe ingredients easier.</p>
+
 
 ![Create Recipe Desktop](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Create%20Recipe%20Page%20Desktop.png)
 ![Create Recipe Tablet](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Create%20Recipe%20Page%20Tablet.png)
