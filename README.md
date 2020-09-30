@@ -242,3 +242,8 @@ slider across Chrome, Firefox and Edge. (This test have been preformed on all pr
 - In writing moment STRIPE is not showing at all (hopefully fixed very soon)
 - All information is shown correctly
 - Disclaimer - This page is 95% from CI tutorial on (Will also be mentioned on disclaimer section)
+
+#### Search Function Test
+- The function works correctly, added additional search for gender.
+- Works correctly from all pages
+- Issue: When searching for Women or Men it can bring up both genders.
