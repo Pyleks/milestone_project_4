@@ -195,38 +195,17 @@ __I have tested the following__
 - PEP8
 
 
-
-
-
-### Responsiveness
-In this test the website was tested to all default device sizes provided my chrome as well responsive
-slider across Chrome, Firefox and Edge. (This test have been preformed on all projects)
-
-  <ol>
-  <li>360 x 640 Galaxy S5</li>
-  <li>375 x 667 iPhone 6/7/8</li>
-  <li>375 x 812 iPhone X</li>
-  <li>411 x 731 Pixel 2</li>
-  <li>411 x 823 Pixel 2 XL</li>
-  <li>414 x 736 iPhone 6/7/8 Plus</li>
-  <li>768 x 1024 iPad</li>
-  <li>1024 x 1366 iPad Pro</li>
-  <li>540 x 720 Surface Duo</li>
-  <li>280 x 653 Galaxy Fold</li>
-   </ol>
-
-
 ### Intended Use on Chrome, Firefox and Edge (Interaction)
 #### Landing Page
 - Opens correctly, showing everything in correct ratio, all icons appears, mouse cursor changes over the icons.  
 - All buttons direct to the intended sites, like shop now, search button, home button.  
 
-#### Landing Page
+#### Product Page
 - Everything is showing correctly, hoovering over images provides a light feedback from the website where the user is looking.  
 - All buttons direct the user to the correct location  
 - Search still working inside the product page.  
 
-#### Landing Page
+#### Product Details Page
 - All buttons are showing correct, and provides good feedback when hoovering over them with the cursor.  
 - All links works correctly.  
 - Quantity field is interactive 
@@ -247,3 +226,32 @@ slider across Chrome, Firefox and Edge. (This test have been preformed on all pr
 - The function works correctly, added additional search for gender.
 - Works correctly from all pages
 - Issue: When searching for Women or Men it can bring up both genders.
+
+### Responsiveness
+In this test the website was tested to all default device sizes provided my chrome as well responsive
+slider across Chrome, Firefox and Edge. (This test have been preformed on all projects)
+
+  <ol>
+  <li>360 x 640 Galaxy S5</li>
+  <li>375 x 667 iPhone 6/7/8</li>
+  <li>375 x 812 iPhone X</li>
+  <li>411 x 731 Pixel 2</li>
+  <li>411 x 823 Pixel 2 XL</li>
+  <li>414 x 736 iPhone 6/7/8 Plus</li>
+  <li>768 x 1024 iPad</li>
+  <li>1024 x 1366 iPad Pro</li>
+  <li>540 x 720 Surface Duo</li>
+  <li>280 x 653 Galaxy Fold</li>
+   </ol>
+   
+
+### Functionality
+| Page        | Bugs           | Status  |
+|:------------- |:-------------| :-----:|
+| Main Page     | No issues found | Good |
+| Product Page     | No issues found      | Good |
+| product Details | No issues found  | Good |
+| Shopping Bag | No issues found     | Good |
+| Checkout  | Found    | Bad |
+| Search  | No issues found     | Good |
+
