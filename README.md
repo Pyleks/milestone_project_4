@@ -34,7 +34,55 @@ for both men and women, simple straight forward design allowing for quick and ea
 > Want to buy a shirt or hoodie from a store that provide Free delivery on high orders.
 
 #### WireFrames
-Needs to be accomplished.
+<details>
+<summary>Main Page</summary>
+<br>
+
+
+![Main Page Desktop](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Main%20Page%20Desktop.png)
+![Main Page Tablet](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Main%20Page%20Tablet.png)
+![Main Page Phone](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Main%20Page%20Phone.png)
+
+</details>
+
+<details>
+<summary>Recipe Page</summary>
+<br>
+
+![Recipe Page Desktop](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Recipe%20Page%20Desktop.png)
+![Recipe Page Tablet](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Recipe%20Page%20Tablet.png)
+![Recipe Page Phone](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Recipe%20Page%20Phone.png)
+
+</details>
+
+<details>
+<summary>Profile Page</summary>
+<br>
+
+![Profile Page Desktop](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Profile%20Page%20Desktop.png)
+![Profile Page Tablet](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Profile%20Page%20Tablet.png)
+![Profile Page Phone](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Profile%20Page%20Phone.png)
+
+</details>
+
+<details>
+<summary>Administrator Page</summary>
+<br>
+
+![Administrator Page Desktop](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Administrator%20%20Desktop.png)
+![Administrator Page Tablet](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Administrator%20Page%20Tablet.png)
+![Administrator Page Phone](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Administrator%20Page%20Mobile.png)
+
+</details>
+
+<details>
+<summary>Create Recipe</summary>
+<br>
+<p>I overhauled this page, adding 2 new text areas, to add recipe ingredients easier.</p>
+
+![Create Recipe Desktop](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Create%20Recipe%20Page%20Desktop.png)
+![Create Recipe Tablet](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Create%20Recipe%20Page%20Tablet.png)
+![Create Recipe Phone](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Create%20Recipe%20Page%20Mobile.png)
 
 
 ## Design Decisions
