@@ -93,7 +93,7 @@ straight forward, allowing for quick navigation.
 
 #### Color Scheme
 
-Need to add color scheme
+![alt text](media/Color-scheme.png)
 
 The current set of colors are all very bland but contrasting to make sure all the buttons and navigation is easy to
 identify for the visitor, and to make sure no colors "drown" out as they navigate through everything.
