@@ -266,4 +266,28 @@ STRIPE is not displaying at all, But hopefully fixed soon.
 | Search  | Do not have a very pretty way of aligning when scaling     | Not Fixed |
 
 
+> However this is only on local version, on Heroku, non of these things works at all.
 
+## Deployment
+1. Go to [GitHub](https://github.com/Pyleks)
+2. Click Repositories.
+3. Locate Milestone-Project-3.
+4. Open [Milestone-Project-3](https://github.com/Pyleks/Pyleks/milestone_project_4)
+5. Click the green button clone to download.
+6. Or clone from URL using the following command in terminal: <code>got clone https://github.com/Pyleks/Pyleks/milestone_project_4.git</code>
+
+#### 2. Installing Requirements.
+Once you have the project cloned on your computer, you are ready to set everything up.  
+1. Open the Terminal and navigate to __Milestone-Project-4__ folder on the computer.  
+2. Install the libraries from requirements.txt by typing <code>pip3 install -r requirements.txt</code>  
+
+#### Setting up the database
+Make sure create a create a free postgres database on Heroku, and preform the database Migration.
+The database will provide you a path automatically in the Config Vars
+
+#### Setting up the vars
+DISABLE_COLLECTSTATIC = 1
+SECRET_KEY = Include that in the vars as well.
+
+# Disclaimer.
+Due to time constraints, A ton of this project have been relying heavily on Code Institute tutorial.
