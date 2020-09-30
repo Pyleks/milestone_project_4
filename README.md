@@ -231,3 +231,14 @@ slider across Chrome, Firefox and Edge. (This test have been preformed on all pr
 - All links works correctly.  
 - Quantity field is interactive 
 
+#### Shopping Bag Page
+- All icons except "Remove" is working correctly, (To be updated later today)
+- The update button is refreshing correctly when used.
+- Keep Shopping and Secure checkout work as intended.
+- Home button is working from here, same with search.
+
+#### Checkout Page
+- All icons works correctly
+- In writing moment STRIPE is not showing at all (hopefully fixed very soon)
+- All information is shown correctly
+- Disclaimer - This page is 95% from CI tutorial on (Will also be mentioned on disclaimer section)
