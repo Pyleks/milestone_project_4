@@ -80,9 +80,9 @@ for both men and women, simple straight forward design allowing for quick and ea
 <br>
 
 
-![Create Recipe Desktop](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Create%20Recipe%20Page%20Desktop.png)
-![Create Recipe Tablet](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Create%20Recipe%20Page%20Tablet.png)
-![Create Recipe Phone](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Create%20Recipe%20Page%20Mobile.png)
+![Checkout Desktop](https://github.com/Pyleks/milestone_project_4/blob/master/wireframes/Checkout%20Desktop.png)
+![Checkout Tablet](https://github.com/Pyleks/milestone_project_4/blob/master/wireframes/Checkout%20Tablet.png)
+![Checkout Phone](https://github.com/Pyleks/milestone_project_4/blob/master/wireframes/Checkout%20Phone.png)
 
 </details>
 
