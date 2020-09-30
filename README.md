@@ -46,7 +46,7 @@ for both men and women, simple straight forward design allowing for quick and ea
 </details>
 
 <details>
-<summary>Recipe Page</summary>
+<summary>Product Page</summary>
 <br>
 
 ![Recipe Page Desktop](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Recipe%20Page%20Desktop.png)
