@@ -10,9 +10,7 @@ finding your next favorite clothing piece.
 4. [Features](#Features)
 5. [Technologies](#Technologies)
 6. [Testing](#Testing)
-7. [Testing Summary](#Testing-Summary)
 8. [Deployment](#Deployment)
-9. [Credits](#Credits)
 10. [Disclaimer](#Disclaimer)
 
 
