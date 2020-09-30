@@ -49,9 +49,9 @@ for both men and women, simple straight forward design allowing for quick and ea
 <summary>Product Page</summary>
 <br>
 
-![Recipe Page Desktop](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Recipe%20Page%20Desktop.png)
-![Recipe Page Tablet](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Recipe%20Page%20Tablet.png)
-![Recipe Page Phone](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Recipe%20Page%20Phone.png)
+![Product Page Desktop](https://github.com/Pyleks/milestone_project_4/blob/master/wireframes/Product%20Page%20Desktop.png)
+![Product Page Tablet](https://github.com/Pyleks/milestone_project_4/blob/master/wireframes/Product%20Page%20Tablet.png)
+![Product Page Phone](https://github.com/Pyleks/milestone_project_4/blob/master/wireframes/Product%20Page%20Phone.png)
 
 </details>
 
@@ -59,9 +59,9 @@ for both men and women, simple straight forward design allowing for quick and ea
 <summary>Product Details</summary>
 <br>
 
-![Profile Page Desktop](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Profile%20Page%20Desktop.png)
-![Profile Page Tablet](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Profile%20Page%20Tablet.png)
-![Profile Page Phone](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Profile%20Page%20Phone.png)
+![Product Details Desktop](https://github.com/Pyleks/milestone_project_4/blob/master/wireframes/Product%20Details%20Desktop.png)
+![Product Details Tablet](https://github.com/Pyleks/milestone_project_4/blob/master/wireframes/Product%20Details%20Page%20Tablet.png)
+![Product Details Phone]()
 
 </details>
 
