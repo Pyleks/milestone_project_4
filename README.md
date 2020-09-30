@@ -215,3 +215,19 @@ slider across Chrome, Firefox and Edge. (This test have been preformed on all pr
   <li>280 x 653 Galaxy Fold</li>
    </ol>
 
+
+### Intended Use on Chrome, Firefox and Edge (Interaction)
+#### Landing Page
+- Opens correctly, showing everything in correct ratio, all icons appears, mouse cursor changes over the icons.  
+- All buttons direct to the intended sites, like shop now, search button, home button.  
+
+#### Landing Page
+- Everything is showing correctly, hoovering over images provides a light feedback from the website where the user is looking.  
+- All buttons direct the user to the correct location  
+- Search still working inside the product page.  
+
+#### Landing Page
+- All buttons are showing correct, and provides good feedback when hoovering over them with the cursor.  
+- All links works correctly.  
+- Quantity field is interactive 
+
