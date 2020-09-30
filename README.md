@@ -61,7 +61,7 @@ for both men and women, simple straight forward design allowing for quick and ea
 
 ![Product Details Desktop](https://github.com/Pyleks/milestone_project_4/blob/master/wireframes/Product%20Details%20Desktop.png)
 ![Product Details Tablet](https://github.com/Pyleks/milestone_project_4/blob/master/wireframes/Product%20Details%20Page%20Tablet.png)
-![Product Details Phone]()
+![Product Details Phone](https://github.com/Pyleks/milestone_project_4/blob/master/wireframes/Product%20Details%20Page%20Phone.png)
 
 </details>
 
