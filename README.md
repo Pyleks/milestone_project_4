@@ -211,5 +211,7 @@ slider across Chrome, Firefox and Edge. (This test have been preformed on all pr
   <li>414 x 736 iPhone 6/7/8 Plus</li>
   <li>768 x 1024 iPad</li>
   <li>1024 x 1366 iPad Pro</li>
+  <li>540 x 720 Surface Duo</li>
+  <li>280 x 653 Galaxy Fold</li>
    </ol>
 
