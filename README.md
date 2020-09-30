@@ -84,6 +84,7 @@ for both men and women, simple straight forward design allowing for quick and ea
 ![Create Recipe Tablet](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Create%20Recipe%20Page%20Tablet.png)
 ![Create Recipe Phone](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Create%20Recipe%20Page%20Mobile.png)
 
+</details>
 
 ## Design Decisions
 The design decisions here is following the Django Code Institute tutorial quite closely to get as much as possible
