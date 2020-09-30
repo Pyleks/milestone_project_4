@@ -95,8 +95,11 @@ straight forward, allowing for quick navigation.
 
 ![alt text](https://github.com/Pyleks/milestone_project_4/blob/master/media/Color-Scheme.png)
 
-The current set of colors are all very bland but contrasting to make sure all the buttons and navigation is easy to
-identify for the visitor, and to make sure no colors "drown" out as they navigate through everything.
+
+
+The current set of colors are used to make strong contrast to each other, making each element "pop" out
+so the visitor have clear defined places to go when navigating the e-commerce website.
+
 
 #### Typography
 I choose to use __Roboto__ for all text, which is the same as previous project, especially since this is a
