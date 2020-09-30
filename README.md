@@ -39,9 +39,9 @@ for both men and women, simple straight forward design allowing for quick and ea
 <br>
 
 
-![Main Page Desktop](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Main%20Page%20Desktop.png)
-![Main Page Tablet](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Main%20Page%20Tablet.png)
-![Main Page Phone](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Main%20Page%20Phone.png)
+![Main Page Desktop](https://github.com/Pyleks/milestone_project_4/blob/master/wireframes/Landing%20Page%20Desktop.png)
+![Main Page Tablet](https://github.com/Pyleks/milestone_project_4/blob/master/wireframes/Landing%20Page%20Tablet.png)
+![Main Page Phone](https://github.com/Pyleks/milestone_project_4/blob/master/wireframes/Landing%20Page%20Mobile.png)
 
 </details>
 
