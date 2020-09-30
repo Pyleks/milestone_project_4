@@ -255,3 +255,15 @@ slider across Chrome, Firefox and Edge. (This test have been preformed on all pr
 | Checkout  | Found    | Bad |
 | Search  | No issues found     | Good |
 
+### Big issue found (Not fixed yet)
+STRIPE is not displaying at all, But hopefully fixed soon.
+
+
+### Responsiveness
+| Page        | Bugs           | Status  |
+|:------------- |:-------------| :-----:|
+| Bag page     | After re-written into Boostrap grid, it's not scaling correctly | Not Fixed |
+| Search  | Do not have a very pretty way of aligning when scaling     | Not Fixed |
+
+
+
