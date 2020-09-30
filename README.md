@@ -69,9 +69,9 @@ for both men and women, simple straight forward design allowing for quick and ea
 <summary>Shopping Bag</summary>
 <br>
 
-![Administrator Page Desktop](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Administrator%20%20Desktop.png)
-![Administrator Page Tablet](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Administrator%20Page%20Tablet.png)
-![Administrator Page Phone](https://github.com/Pyleks/Milestone-Project-3/blob/master/static/wireframes/Administrator%20Page%20Mobile.png)
+![Shopping Bag Desktop](https://github.com/Pyleks/milestone_project_4/blob/master/wireframes/Shopping%20Bag%20Desktop.png)
+![Shopping Bag Tablet](https://github.com/Pyleks/milestone_project_4/blob/master/wireframes/Shopping%20Bag%20Tablet.png)
+![Shopping Bag Phone](https://github.com/Pyleks/milestone_project_4/blob/master/wireframes/Shopping%20Bag%20Phone.png)
 
 </details>
 
