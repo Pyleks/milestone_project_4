@@ -189,10 +189,7 @@ Need to be written
 __I have tested the following__
 - Intended use (Interactivity)  
 - Responsiveness across devices
-- W3 HTML Validator using URL and copy/paste code
-- W3 CSS Validator
-- JS Hint
-- PEP8
+- At this point there is nothing to test as it's all broke on Heroku anyway.  
 
 
 ### Intended Use on Chrome, Firefox and Edge (Interaction)
@@ -291,3 +288,7 @@ SECRET_KEY = Include that in the vars as well.
 
 # Disclaimer.
 Due to time constraints, A ton of this project have been relying heavily on Code Institute tutorial.
+Any code that have {#Code Mostly from Code Insitute#}, is code that is mostly from CI
+
+This is for Educational Purpose, and non of the images/prices/descriptions are representing a real store
+that will sell any of this.

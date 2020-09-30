@@ -4,6 +4,7 @@
     CSS from here:
     https://stripe.com/docs/stripe-js
 */
+// {#Code Mostly from Code Insitute#}
 
 var stripePublicKey = $('#id_stripe_public_key').text().slice(1, -1);
 var clientSecret = $('#id_client_secret').text().slice(1, -1);
