@@ -1,4 +1,4 @@
-{#Code Mostly from Code Insitute#}
+# Code Mostly from Code Insitute
 from django.contrib import admin
 from django.urls import path
 from . import views

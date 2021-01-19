@@ -1,6 +1,8 @@
 from django import forms
 from .models import Order
-{#Code Mostly from Code Insitute#}
+# Code Mostly from Code Insitute
+
+
 # Advanced form creation
 class OrderForm(forms.ModelForm):
     class Meta:

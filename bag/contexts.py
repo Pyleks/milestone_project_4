@@ -1,4 +1,4 @@
-{#Code Mostly from Code Insitute#}
+# Code Mostly from Code Insitute
 from decimal import Decimal
 from django.conf import settings
 from django.shortcuts import get_object_or_404

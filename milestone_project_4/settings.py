@@ -23,11 +23,12 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = os.environ.get('SECRET_KEY', '')
+# SECRET_KEY = "sk_test_51Gyez9DsrD0PTTMn8ARnqJvnq1YashEKNhNonQZb2AUGrv7w8grxP3cmmS7aYAopnGkzuBX2YYTEIbOOct6qImKz00REWaKgEd"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['threads-milestone-project-4.herokuapp.com', 'localhost']
+# ALLOWED_HOSTS = ['threads-milestone-project-4.herokuapp.com', 'localhost']
 
 
 # Application definition

@@ -1,4 +1,5 @@
-{#Code Mostly from Code Insitute#}
+# Code Mostly from Code Insitute
+
 from django.apps import AppConfig
 
 
